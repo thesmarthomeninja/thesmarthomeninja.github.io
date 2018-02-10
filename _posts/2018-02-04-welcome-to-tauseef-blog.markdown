@@ -6,19 +6,17 @@ date:   2018-02-04 21:28:15 +0700
 First of all, Thank you for stopping by.
 
 # Who am I?
-Hi, I am `Tauseef Jamadar`, a *Software Engineer* and a *Technology Enthusiast* from Chico, CA who loves to write software to build great products
-and help business succeed with their goals. 
+Hi, I am `Kalen Daniel`, a *Analytics Professional* and a *Smart Home Hacker & Technology Junkie* from Chico, CA who loves to solve complex problems help businesses succeed with their goals. 
 
-I was born in Mumbai, India and travelled to the United States for my masters program in Computer Science from [CSU, Chico][csu-chico] and graduated with Honors in the year 2011.
+I was born in Southern California, and have lived all over the west coast.  I finished up my schooling near my grandparent's ranch and was a horse foreman for many years during the day, and a hacker at night.  I completed my courses of study in Business Management and Environmental Science from [CSU, Chico][csu-chico] and graduated in 2009.
 
-I have over 8 years professional experience developing for the web and mobile platforms. I am aspiring to learn, grow and share the knowledge. I started real world programming from the year 2010, since then I have come far and learnt a lot. I am constantly looking to work on exciting projects.
+I have over a decade of experience with web development, and only a few years experience with R, Python, Ruby, VBA- among other languages as well..
 
 #### I believe in the statement -
-> "Programming is limited to your imagination"
+> "Chase whatever it is that fills your heart with music and make sure it's a beat you can dance to"
 
 
 # What is this site about?
-Starting a blog and creating an online presense, to share my learnings was always on my todo list. Finally today I decided to start doing it.
-I want to use this site as a place to share my experiences with interesting programing problem solving, hoping someone will benefit from the findings.
+Me.  Simply and Selfishly Put.
 
 [csu-chico]:  http://www.csuchico.edu/
