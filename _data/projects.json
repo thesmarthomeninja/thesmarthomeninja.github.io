@@ -15,11 +15,11 @@
 		"tags": ["R","Adwords","Google Analytics","Adobe Analytics","Data Science"]
 	},
 	{
-		"name": "Live Band Club",
-		"image": "livebandclub.png",
+		"name": "Twitter Analysis in R",
+		"image": "retweet.png",
 		"url": "http://livebandclub.com",
-		"date": "June 2016",
-		"tags": ["HTML","Javascript","PHP"]
+		"date": "November 2017",
+		"tags": ["R","Social","Data Science","Github"]
 	},
 	{
 		"name": "RPubs Portfolio #2 - Kalendaniel",
