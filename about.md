@@ -10,4 +10,4 @@ I am currently a Web & Marketing Analytics Specialist at <a href="https://www.bu
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/open?id=1I_9oXUYw2rOy_KEDo6XbmUBPuP4bZTJy" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1I_9oXUYw2rOy_KEDo6XbmUBPuP4bZTJy/view?usp=sharing" width="100%" height="900"></iframe>
