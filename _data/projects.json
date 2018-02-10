@@ -1,5 +1,13 @@
 [
 	{
+		"slug": "marketing-attribution-theory-and-models-in-R",
+		"name": "Marketing Attribution Theory and Modeling",
+		"image": "marketingattribution.png",
+		"url": "https://youtu.be/CL1ed7AR0FE",
+		"date": "Feb 2018",
+		"tags": ["Adobe Analytics", "Spark", "R", "Attribution","Data Science"]
+	},
+	{
 		"slug": "adwords-lost-revenue-performance",
 		"name": "Adwords Lost Revenue Performance Forecasting",
 		"image": "ga_and_adwords.png",
