@@ -22,30 +22,30 @@
 		"tags": ["HTML","Javascript","PHP"]
 	},
 	{
-		"name": "Pavement Preservation Treatment Database",
-		"image": "pp_logo.png",
-		"date": "Oct 2015",
-		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"tags": ["PHP","HTML"]
+		"name": "RPubs Portfolio #2 - Kalendaniel",
+		"image": "rpubskalen.png",
+		"date": "June 2017",
+		"url": "http://rpubs.com/kalendaniel",
+		"tags": ["R","R Programming","Analytics","Data Science"]
 	},
 	{
-		"name": "Street Saver Certification Program",
+		"name": "RPubs Portfolio #1 - TheSmartHomeNinja",
 		"image": "streetsaver.png",
-		"date": "Oct 2015",
-		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-		"tags": ["PHP","HTML","CMS"]
+		"date": "November 2016",
+		"url": "http://rpubs.com/kalendaniel",
+		"tags": ["R","R Programming","Analytics","Data Science","Adobe Analytics","Google Analytics","SEO"]
 	},
 	{
-		"name": "Tire Derived Aggregate",
-		"image": "tda.png",
-		"date": "Oct 2016",
-		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
-		"tags": ["PHP","HTML","CMS"]
+		"name": "The Smart Home Ninja: Blog",
+		"image": "smarthomeninja.png",
+		"date": "June 2015",
+		"url": "https://thesmarthomeninja.com",
+		"tags": ["Smart Home","Blog","Technology"]
 	},{
-		"name": "JM Watts Chico",
-		"image": "jmwattschico.png",
-		"url": "http://jmwattschico.com/",
-		"date": "May 2017",
-		"tags": ["HTML","CSS","Javascript"]
+		"name": "My Youtube Collection",
+		"image": "youtubevideos.png",
+		"url": "https://www.youtube.com/channel/UCB6ui61U1LLKzHhm4hkc7ag?view_as=public",
+		"date": "May 2015",
+		"tags": ["R","Analytics","Smart Home","Data Science","You Tube"]
 	}
 ]
