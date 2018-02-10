@@ -1,18 +1,18 @@
 [
 	{
 		"slug": "adwords-lost-revenue-performance",
-		"name": "Adwords Lost Revenue Performance Forecasting w/ R",
+		"name": "Adwords Lost Revenue Performance Forecasting",
 		"image": "ga_and_adwords.png",
 		"url": "https://youtu.be/e1y1J5zQ23o",
-		"date": "Jan 2017",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
+		"date": "Jan 2018",
+		"tags": ["Adwords", "Excel", "Google Analytics", "Data Science"]
 	},
 	{
-		"name": "Easy Links",
-		"image": "easy-links.jpg",
-		"date": "May 2017",
-		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		"name": "Adwords Performance Lost By Budget or Rank with R",
+		"image": "adwordsrevenue.png",
+		"date": "Dec 2017",
+		"description": "This was a demonstration from https://netpeak.net/blog/how-to-measure-lost-revenue-in-google-adwords-with-the-help-of-language-r/.",
+		"tags": ["R","Adwords","Google Analytics","Adobe Analytics","Data Science"]
 	},
 	{
 		"name": "Live Band Club",
@@ -23,16 +23,16 @@
 	},
 	{
 		"name": "RPubs Portfolio #2 - Kalendaniel",
-		"image": "rpubskalen.png",
+		"image": "morerpubs.png",
 		"date": "June 2017",
 		"url": "http://rpubs.com/kalendaniel",
 		"tags": ["R","R Programming","Analytics","Data Science"]
 	},
 	{
 		"name": "RPubs Portfolio #1 - TheSmartHomeNinja",
-		"image": "streetsaver.png",
+		"image": "rpub.png",
 		"date": "November 2016",
-		"url": "http://rpubs.com/kalendaniel",
+		"url": "http://rpubs.com/thesmarthomeninja",
 		"tags": ["R","R Programming","Analytics","Data Science","Adobe Analytics","Google Analytics","SEO"]
 	},
 	{
@@ -42,7 +42,7 @@
 		"url": "https://thesmarthomeninja.com",
 		"tags": ["Smart Home","Blog","Technology"]
 	},{
-		"name": "My Youtube Collection",
+		"name": "My Videos and Youtube Channel",
 		"image": "youtubevideos.png",
 		"url": "https://www.youtube.com/channel/UCB6ui61U1LLKzHhm4hkc7ag?view_as=public",
 		"date": "May 2015",
